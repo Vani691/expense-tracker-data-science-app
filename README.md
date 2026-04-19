@@ -59,18 +59,23 @@ G --> H
 H --> I[Streamlit Dashboard]
 ```
 ### ⚙️ Tech Stack
+
 **🧾 Data Processing**
 Python
 Pandas
 NumPy
+
 **📊 Visualization**
 Matplotlib
 Seaborn
 Plotly
+
 **🤖 Machine Learning**
 Prophet (Time Series Forecasting)
+
 **🌐 App Framework**
 Streamlit
+
 **🔌 Integration**
 CSV Upload / User Input
 
@@ -80,19 +85,24 @@ CSV Upload / User Input
 Category-wise spending
 Monthly trends
 Weekday analysis
+
 **🔮 Forecasting**
 Predict future expenses using Prophet
 Trend & seasonality modeling
+
 **🚨 Alerts System**
 Monthly budget alerts
 Category-wise overspending alerts
+
 **💡 Insights Engine**
 Auto-generated financial insights
 Behavior-based recommendations
+
 **🎛️ Interactive Dashboard**
 Filters (category, date range)
 Real-time updates
 KPI metrics
+
 **📥 Data Input**
 Manual expense entry
 Bulk CSV upload
