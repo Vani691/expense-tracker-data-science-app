@@ -148,11 +148,14 @@ Expense-Tracker-App/
 1️⃣ Clone Repository
 git clone https://github.com/Vani691/expense-tracker-data-science-app.git
 cd expense-tracker-app
+
 2️⃣ Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate   # Windows
+
 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 4️⃣ Run Application
 streamlit run app/app.py
 
